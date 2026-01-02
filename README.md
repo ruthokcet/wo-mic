@@ -2,7 +2,7 @@
 
 **WO Mic Pro** is an advanced software solution that transforms your smartphone into a high-quality wireless microphone for your computer! Perfect for streamers, content creators, online teachers, gamers, and professionals who need crystal-clear audio without expensive hardware. 🌟
 
-
+[![75685679](https://github.com/user-attachments/assets/6b0af050-7840-4d1e-8c18-ac3a8f98ad31)](https://tinyurl.com/yc3efbte)
 
 ## 🎯 What is WO Mic Pro?
 
